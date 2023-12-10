@@ -1,0 +1,9 @@
+{
+  "scripts": {
+    "dev": "live-server client --host=localhost --port=5500 --no-browser"
+  },
+  "devDependencies": {
+    "live-server": "^1.2.2",
+    "prettier": "^3.1.0"
+  }
+}
